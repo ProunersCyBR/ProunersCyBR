@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=65B307&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2823bc&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+We+are+Prouners+CYBR;We+are+a+startup;We+are+a+Brazilian+corporation;We+made+a+EDR;Be+Welcome!:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2823bc&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+We+are+Prouners+CyBR;We+are+a+startup;We+are+a+Brazilian+corporation;We+made+a+EDR;Be+Welcome!:%29)](https://git.io/typing-svg)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ralph-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
